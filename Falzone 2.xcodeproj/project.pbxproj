@@ -15,6 +15,17 @@
 		A03E47F02850FE7D00C8B1FA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A03E47EE2850FE7D00C8B1FA /* Main.storyboard */; };
 		A03E47F22850FE8100C8B1FA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A03E47F12850FE8100C8B1FA /* Assets.xcassets */; };
 		A03E47F52850FE8100C8B1FA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A03E47F32850FE8100C8B1FA /* LaunchScreen.storyboard */; };
+		A03E48062851007D00C8B1FA /* swoosh1.caf in Resources */ = {isa = PBXBuildFile; fileRef = A03E47FB2851007C00C8B1FA /* swoosh1.caf */; };
+		A03E48072851007D00C8B1FA /* whack.caf in Resources */ = {isa = PBXBuildFile; fileRef = A03E47FC2851007C00C8B1FA /* whack.caf */; };
+		A03E48082851007D00C8B1FA /* wrong.caf in Resources */ = {isa = PBXBuildFile; fileRef = A03E47FD2851007C00C8B1FA /* wrong.caf */; };
+		A03E48092851007D00C8B1FA /* launch.caf in Resources */ = {isa = PBXBuildFile; fileRef = A03E47FE2851007C00C8B1FA /* launch.caf */; };
+		A03E480A2851007D00C8B1FA /* explosion.caf in Resources */ = {isa = PBXBuildFile; fileRef = A03E47FF2851007C00C8B1FA /* explosion.caf */; };
+		A03E480B2851007D00C8B1FA /* swoosh2.caf in Resources */ = {isa = PBXBuildFile; fileRef = A03E48002851007C00C8B1FA /* swoosh2.caf */; };
+		A03E480C2851007D00C8B1FA /* sliceHitBomb.sks in Resources */ = {isa = PBXBuildFile; fileRef = A03E48012851007D00C8B1FA /* sliceHitBomb.sks */; };
+		A03E480D2851007D00C8B1FA /* swoosh3.caf in Resources */ = {isa = PBXBuildFile; fileRef = A03E48022851007D00C8B1FA /* swoosh3.caf */; };
+		A03E480E2851007D00C8B1FA /* sliceHitEnemy.sks in Resources */ = {isa = PBXBuildFile; fileRef = A03E48032851007D00C8B1FA /* sliceHitEnemy.sks */; };
+		A03E480F2851007D00C8B1FA /* sliceBombFuse.caf in Resources */ = {isa = PBXBuildFile; fileRef = A03E48042851007D00C8B1FA /* sliceBombFuse.caf */; };
+		A03E48102851007D00C8B1FA /* sliceFuse.sks in Resources */ = {isa = PBXBuildFile; fileRef = A03E48052851007D00C8B1FA /* sliceFuse.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +38,17 @@
 		A03E47EF2850FE7D00C8B1FA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A03E47F12850FE8100C8B1FA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A03E47F42850FE8100C8B1FA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A03E47FB2851007C00C8B1FA /* swoosh1.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = swoosh1.caf; sourceTree = "<group>"; };
+		A03E47FC2851007C00C8B1FA /* whack.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = whack.caf; sourceTree = "<group>"; };
+		A03E47FD2851007C00C8B1FA /* wrong.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = wrong.caf; sourceTree = "<group>"; };
+		A03E47FE2851007C00C8B1FA /* launch.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = launch.caf; sourceTree = "<group>"; };
+		A03E47FF2851007C00C8B1FA /* explosion.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = explosion.caf; sourceTree = "<group>"; };
+		A03E48002851007C00C8B1FA /* swoosh2.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = swoosh2.caf; sourceTree = "<group>"; };
+		A03E48012851007D00C8B1FA /* sliceHitBomb.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = sliceHitBomb.sks; sourceTree = "<group>"; };
+		A03E48022851007D00C8B1FA /* swoosh3.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = swoosh3.caf; sourceTree = "<group>"; };
+		A03E48032851007D00C8B1FA /* sliceHitEnemy.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = sliceHitEnemy.sks; sourceTree = "<group>"; };
+		A03E48042851007D00C8B1FA /* sliceBombFuse.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sliceBombFuse.caf; sourceTree = "<group>"; };
+		A03E48052851007D00C8B1FA /* sliceFuse.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = sliceFuse.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +89,17 @@
 				A03E47EE2850FE7D00C8B1FA /* Main.storyboard */,
 				A03E47F12850FE8100C8B1FA /* Assets.xcassets */,
 				A03E47F32850FE8100C8B1FA /* LaunchScreen.storyboard */,
+				A03E47FF2851007C00C8B1FA /* explosion.caf */,
+				A03E47FE2851007C00C8B1FA /* launch.caf */,
+				A03E48042851007D00C8B1FA /* sliceBombFuse.caf */,
+				A03E48052851007D00C8B1FA /* sliceFuse.sks */,
+				A03E48012851007D00C8B1FA /* sliceHitBomb.sks */,
+				A03E48032851007D00C8B1FA /* sliceHitEnemy.sks */,
+				A03E47FB2851007C00C8B1FA /* swoosh1.caf */,
+				A03E48002851007C00C8B1FA /* swoosh2.caf */,
+				A03E48022851007D00C8B1FA /* swoosh3.caf */,
+				A03E47FC2851007C00C8B1FA /* whack.caf */,
+				A03E47FD2851007C00C8B1FA /* wrong.caf */,
 			);
 			path = "Falzone 2";
 			sourceTree = "<group>";
@@ -129,11 +162,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A03E480F2851007D00C8B1FA /* sliceBombFuse.caf in Resources */,
+				A03E480C2851007D00C8B1FA /* sliceHitBomb.sks in Resources */,
+				A03E480E2851007D00C8B1FA /* sliceHitEnemy.sks in Resources */,
 				A03E47F02850FE7D00C8B1FA /* Main.storyboard in Resources */,
 				A03E47E72850FE7D00C8B1FA /* GameScene.sks in Resources */,
+				A03E480B2851007D00C8B1FA /* swoosh2.caf in Resources */,
+				A03E480A2851007D00C8B1FA /* explosion.caf in Resources */,
+				A03E48072851007D00C8B1FA /* whack.caf in Resources */,
 				A03E47F22850FE8100C8B1FA /* Assets.xcassets in Resources */,
 				A03E47F52850FE8100C8B1FA /* LaunchScreen.storyboard in Resources */,
 				A03E47E92850FE7D00C8B1FA /* Actions.sks in Resources */,
+				A03E48082851007D00C8B1FA /* wrong.caf in Resources */,
+				A03E480D2851007D00C8B1FA /* swoosh3.caf in Resources */,
+				A03E48092851007D00C8B1FA /* launch.caf in Resources */,
+				A03E48062851007D00C8B1FA /* swoosh1.caf in Resources */,
+				A03E48102851007D00C8B1FA /* sliceFuse.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,7 +342,9 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UIStatusBarHidden = YES;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UIStatusBarHidden = NO;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -306,7 +352,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "toons.Falzone-2";
+				PRODUCT_BUNDLE_IDENTIFIER = ephs2022.ninjagame;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -326,7 +372,9 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UIStatusBarHidden = YES;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UIStatusBarHidden = NO;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -334,7 +382,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "toons.Falzone-2";
+				PRODUCT_BUNDLE_IDENTIFIER = ephs2022.ninjagame;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
