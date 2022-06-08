@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		A03E47E52850FE7D00C8B1FA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A03E47E42850FE7D00C8B1FA /* AppDelegate.swift */; };
 		A03E47E72850FE7D00C8B1FA /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = A03E47E62850FE7D00C8B1FA /* GameScene.sks */; };
+		A03E47E92850FE7D00C8B1FA /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = A03E47E82850FE7D00C8B1FA /* Actions.sks */; };
 		A03E47EB2850FE7D00C8B1FA /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = A03E47EA2850FE7D00C8B1FA /* GameScene.swift */; };
 		A03E47ED2850FE7D00C8B1FA /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A03E47EC2850FE7D00C8B1FA /* GameViewController.swift */; };
 		A03E47F02850FE7D00C8B1FA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A03E47EE2850FE7D00C8B1FA /* Main.storyboard */; };
@@ -82,9 +83,10 @@
 			children = (
 				A03E47E42850FE7D00C8B1FA /* AppDelegate.swift */,
 				A03E47E62850FE7D00C8B1FA /* GameScene.sks */,
-				A03E47EE2850FE7D00C8B1FA /* Main.storyboard */,
+				A03E47E82850FE7D00C8B1FA /* Actions.sks */,
 				A03E47EA2850FE7D00C8B1FA /* GameScene.swift */,
 				A03E47EC2850FE7D00C8B1FA /* GameViewController.swift */,
+				A03E47EE2850FE7D00C8B1FA /* Main.storyboard */,
 				A03E47F12850FE8100C8B1FA /* Assets.xcassets */,
 				A03E47F32850FE8100C8B1FA /* LaunchScreen.storyboard */,
 				A03E47FF2851007C00C8B1FA /* explosion.caf */,
@@ -170,6 +172,7 @@
 				A03E48072851007D00C8B1FA /* whack.caf in Resources */,
 				A03E47F22850FE8100C8B1FA /* Assets.xcassets in Resources */,
 				A03E47F52850FE8100C8B1FA /* LaunchScreen.storyboard in Resources */,
+				A03E47E92850FE7D00C8B1FA /* Actions.sks in Resources */,
 				A03E48082851007D00C8B1FA /* wrong.caf in Resources */,
 				A03E480D2851007D00C8B1FA /* swoosh3.caf in Resources */,
 				A03E48092851007D00C8B1FA /* launch.caf in Resources */,
